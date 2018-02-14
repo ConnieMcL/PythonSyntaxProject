@@ -3,7 +3,7 @@ import os
 
 count=0
 
-for subdir, dirs, files in os.walk('/home/u180133/PROGECT/qualitas/'):
+for subdir, dirs, files in os.walk('/home/u180133/PROGECT/ParseFiles/'):
     for file in files:
     #print os.path.join(subdir, file)
         filepath = subdir + os.sep + file
