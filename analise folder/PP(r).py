@@ -12,6 +12,9 @@ with open('/home/u180133/PROGECT/data/xallnodes.txt') as nodes:
 print counts    
 
 
+    
+
+
 
 
 
@@ -42,3 +45,7 @@ with open('/home/u180133/PROGECT/data/perProjQualitas.txt') as handle:
 
 print counts
 
+for y in counts.keys():
+    counts[y] = round(((counts[y] /48.0)*100),3)
+
+print counts

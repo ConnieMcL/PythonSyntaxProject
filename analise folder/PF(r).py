@@ -43,3 +43,8 @@ with open('/home/u180133/PROGECT/data/perFileQualitas.txt') as handle:
 
 print counts
 print numfiles
+
+for y in counts.keys():
+    counts[y] = round(((counts[y] /29001.0)*100),3)
+
+print counts

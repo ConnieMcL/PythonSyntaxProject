@@ -1,0 +1,1 @@
+{"Index": 6, "For": 17, "Add": 24, "Dict": 3, "Print": 18, "Import": 14, "Subscript": 6, "TryExcept": 5, "Store": 104, "Tuple": 6, "ExceptHandler": 5, "With": 2, "NotIn": 3, "Name": 224, "BinOp": 21, "Expr": 7, "AugAssign": 3, "Str": 36, "Assign": 64, "Load": 182, "Compare": 3, "keyword": 2, "Attribute": 50, "Module": 7, "alias": 14, "Num": 49, "Pass": 5, "Call": 52, "If": 13}

@@ -1,0 +1,30 @@
+/home/u180133/PROGECT/ParseFiles//parsemulttest.py
+{"Load": 25, "Name": 62, "For": 3, "Tuple": 1, "Attribute": 7, "BinOp": 4, "Module": 1, "TryExcept": 1, "ExceptHandler": 1, "alias": 2, "Add": 4, "Num": 37, "Call": 7, "Str": 5, "Pass": 1, "Print": 3, "Import": 2, "Assign": 39, "Store": 45, "If": 2}
+/home/u180133/PROGECT/ParseFiles//parseAllFiles.py
+{"Load": 18, "Name": 21, "For": 2, "Tuple": 1, "Attribute": 5, "BinOp": 3, "Module": 1, "TryExcept": 1, "ExceptHandler": 1, "alias": 2, "Add": 3, "Num": 2, "Call": 5, "Str": 4, "Pass": 1, "Print": 4, "Import": 2, "Assign": 4, "Store": 9, "If": 1}
+/home/u180133/PROGECT/ParseFiles//parseIndividualFiles.py
+{"Index": 2, "For": 3, "Add": 4, "Dict": 1, "Print": 4, "Import": 2, "Subscript": 2, "TryExcept": 1, "Store": 12, "Tuple": 1, "ExceptHandler": 1, "NotIn": 1, "Name": 31, "BinOp": 3, "AugAssign": 1, "Str": 5, "Assign": 5, "Load": 29, "Compare": 1, "Attribute": 7, "Module": 1, "alias": 2, "Num": 2, "Pass": 1, "Call": 7, "If": 2}
+/home/u180133/PROGECT/ParseFiles//quickTest.py
+{"Index": 2, "For": 3, "Add": 5, "Dict": 1, "Print": 2, "Import": 3, "Subscript": 2, "TryExcept": 1, "Store": 13, "Tuple": 1, "ExceptHandler": 1, "With": 1, "NotIn": 1, "Name": 40, "BinOp": 4, "Expr": 4, "AugAssign": 1, "Str": 9, "Assign": 5, "Load": 42, "Compare": 1, "Attribute": 12, "Module": 1, "alias": 3, "Num": 2, "Pass": 1, "Call": 13, "If": 3}
+/home/u180133/PROGECT/ParseFiles/gfg/test.py
+{"Param": 1, "Add": 2, "Call": 4, "Print": 9, "Import": 2, "Store": 4, "Return": 1, "arguments": 1, "Name": 22, "BinOp": 2, "Expr": 2, "While": 1, "Str": 10, "Assign": 4, "FunctionDef": 1, "Load": 19, "Compare": 9, "Attribute": 2, "Module": 1, "alias": 2, "Num": 14, "Eq": 9, "If": 9}
+/home/u180133/PROGECT/ParseFiles/gfg/Main 3.py
+{"Load": 12, "Name": 16, "For": 2, "Tuple": 1, "Attribute": 3, "BinOp": 4, "Module": 1, "alias": 1, "Add": 4, "Num": 2, "Call": 2, "Str": 4, "Print": 2, "Import": 1, "Assign": 3, "Store": 8, "If": 1}
+/home/u180133/PROGECT/ParseFiles/gfg/main.py
+{"Load": 18, "Name": 17, "For": 1, "BinOp": 1, "Attribute": 5, "Module": 1, "alias": 1, "Add": 1, "Num": 2, "Call": 6, "keyword": 2, "Str": 2, "Print": 2, "Import": 1, "Assign": 3, "Store": 4, "If": 1}
+/home/u180133/PROGECT/ParseFiles//parsemulttest.py
+{"Load": 25, "Name": 62, "For": 3, "Tuple": 1, "Attribute": 7, "BinOp": 4, "Module": 1, "TryExcept": 1, "ExceptHandler": 1, "alias": 2, "Add": 4, "Num": 37, "Call": 7, "Str": 5, "Pass": 1, "Print": 3, "Import": 2, "Assign": 39, "Store": 45, "If": 2}
+/home/u180133/PROGECT/ParseFiles//parseAllFiles.py
+{"Load": 18, "Name": 21, "For": 2, "Tuple": 1, "Attribute": 5, "BinOp": 3, "Module": 1, "TryExcept": 1, "ExceptHandler": 1, "alias": 2, "Add": 3, "Num": 2, "Call": 5, "Str": 4, "Pass": 1, "Print": 4, "Import": 2, "Assign": 4, "Store": 9, "If": 1}
+/home/u180133/PROGECT/ParseFiles//pif_individuals_TD.py
+{"Index": 2, "For": 3, "Add": 5, "Dict": 1, "Print": 2, "Import": 3, "Subscript": 2, "TryExcept": 1, "Store": 13, "Tuple": 1, "ExceptHandler": 1, "With": 1, "NotIn": 1, "Name": 40, "BinOp": 4, "Expr": 4, "AugAssign": 1, "Str": 9, "Assign": 5, "Load": 42, "Compare": 1, "Attribute": 12, "Module": 1, "alias": 3, "Num": 2, "Pass": 1, "Call": 13, "If": 3}
+/home/u180133/PROGECT/ParseFiles//parseIndividualFiles.py
+{"Index": 2, "For": 3, "Add": 4, "Dict": 1, "Print": 4, "Import": 2, "Subscript": 2, "TryExcept": 1, "Store": 12, "Tuple": 1, "ExceptHandler": 1, "NotIn": 1, "Name": 31, "BinOp": 3, "AugAssign": 1, "Str": 5, "Assign": 5, "Load": 29, "Compare": 1, "Attribute": 7, "Module": 1, "alias": 2, "Num": 2, "Pass": 1, "Call": 7, "If": 2}
+/home/u180133/PROGECT/ParseFiles//paf_TD.py
+{"Index": 2, "For": 3, "Add": 3, "Dict": 1, "Print": 1, "Import": 3, "Subscript": 2, "TryExcept": 1, "Store": 13, "Tuple": 1, "ExceptHandler": 1, "With": 1, "NotIn": 1, "Name": 36, "BinOp": 2, "Expr": 3, "AugAssign": 1, "Str": 6, "Assign": 5, "Load": 36, "Compare": 1, "Attribute": 10, "Module": 1, "alias": 3, "Num": 2, "Pass": 1, "Call": 11, "If": 2}
+/home/u180133/PROGECT/ParseFiles//parseProjects.py
+{"Index": 2, "For": 3, "Add": 3, "Dict": 1, "Print": 1, "Import": 3, "Subscript": 2, "TryExcept": 1, "Store": 13, "Tuple": 1, "ExceptHandler": 1, "With": 1, "NotIn": 1, "Name": 38, "BinOp": 2, "Expr": 5, "AugAssign": 1, "Str": 8, "Assign": 5, "Load": 40, "Compare": 1, "Attribute": 12, "Module": 1, "alias": 3, "Num": 2, "Pass": 1, "Call": 13, "If": 2}
+/home/u180133/PROGECT/ParseFiles/gfg/Main 3.py
+{"Load": 12, "Name": 16, "For": 2, "Tuple": 1, "Attribute": 3, "BinOp": 4, "Module": 1, "alias": 1, "Add": 4, "Num": 2, "Call": 2, "Str": 4, "Print": 2, "Import": 1, "Assign": 3, "Store": 8, "If": 1}
+/home/u180133/PROGECT/ParseFiles/gfg/main.py
+{"Load": 18, "Name": 17, "For": 1, "BinOp": 1, "Attribute": 5, "Module": 1, "alias": 1, "Add": 1, "Num": 2, "Call": 6, "keyword": 2, "Str": 2, "Print": 2, "Import": 1, "Assign": 3, "Store": 4, "If": 1}
